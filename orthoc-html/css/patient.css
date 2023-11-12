@@ -1,0 +1,69 @@
+body {
+    padding: 0;
+    margin: 0;
+    text-transform: capitalize;
+
+background-color:#eee;
+
+
+}
+#header-1{
+margin-top: 0px;
+    text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+    word-spacing: 5px;
+    bottom: 0px;
+}
+
+
+#main{
+ 
+    width: 1000px;
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    justify-content: space-between;
+    align-content: center;
+}
+#patient-details{
+margin:  15px 15px 0px 15px;
+
+}
+
+div{
+    margin-top: 40px;
+}
+#vital-signs{
+    margin: 15px 15px 0px 15px;
+
+}
+#vs{
+    margin-top: 50px;
+}
+#x{
+   
+    position: relative;
+    left: 13px;
+    
+}
+#c{
+  
+    position: relative;
+    left: 2px;
+    bottom: -1px;
+}
+#pcsf{
+    position: relative;
+    left: 160px;
+}
+#lpcsf{
+    position: relative;
+    bottom: -85px;
+}
+#sx{
+    margin-right:10px ;
+}
+.op{
+   position: relative;
+   top: -1em;
+   left: 2em;
+}
